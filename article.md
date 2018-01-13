@@ -10,3 +10,6 @@
 ## log
 
 * [daily logrotate](https://github.com/kjk/dailyrotate/blob/master/daily_rotate_file.go)
+
+## uuid
+* [uuid info](https://github.com/kjk/go-cookbook/tree/master/generate-unique-id)
