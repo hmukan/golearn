@@ -6,3 +6,7 @@
 ## testing
 
 * [httptest](https://elithrar.github.io/article/testing-http-handlers-go/)
+
+## log
+
+* [daily logrotate](https://github.com/kjk/dailyrotate/blob/master/daily_rotate_file.go)
