@@ -2,6 +2,7 @@
 
 ## error
 * [Don’t just check errors, handle them gracefully](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)
+* [panic and recover](https://golangbot.com/panic-and-recover/)
 
 ## testing
 
