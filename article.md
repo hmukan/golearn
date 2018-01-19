@@ -20,3 +20,4 @@
 * [如何优雅的关闭http连接](https://www.cnblogs.com/cobbliu/p/4517598.html)
 * [tcp的time_wait](https://www.cnblogs.com/yjf512/p/5327886.html)
 * [tcp的time_wait和time_close](https://www.cnblogs.com/sunxucool/p/3449068.html)
+* [Don’t use default http client](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
