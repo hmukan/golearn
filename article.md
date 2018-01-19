@@ -21,3 +21,4 @@
 * [tcp的time_wait](https://www.cnblogs.com/yjf512/p/5327886.html)
 * [tcp的time_wait和time_close](https://www.cnblogs.com/sunxucool/p/3449068.html)
 * [Don’t use default http client](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
+* [keepalive的理解](https://www.cnblogs.com/yjf512/p/5354055.html)
