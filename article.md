@@ -3,6 +3,7 @@
 ## error
 * [Don’t just check errors, handle them gracefully](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)
 * [panic and recover](https://golangbot.com/panic-and-recover/)
+* [defer](https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01)
 
 ## testing
 
@@ -22,3 +23,4 @@
 * [tcp的time_wait和time_close](https://www.cnblogs.com/sunxucool/p/3449068.html)
 * [Don’t use default http client](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
 * [keepalive的理解](https://www.cnblogs.com/yjf512/p/5354055.html)
+
