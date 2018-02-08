@@ -24,3 +24,6 @@
 * [Don’t use default http client](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
 * [keepalive的理解](https://www.cnblogs.com/yjf512/p/5354055.html)
 
+## bufio
+
+* [bufio.Scanner](https://medium.com/golangspec/in-depth-introduction-to-bufio-scanner-in-golang-55483bb689b4)
