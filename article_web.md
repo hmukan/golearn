@@ -2,6 +2,12 @@
 # 前端web资源
  
 ## 数据可视化
+### D3
+* [D3](https://github.com/d3/d3)
+
+### ECharts
+* [ECharts](http://echarts.baidu.com/)
+
 ### dataV
 * [dataV官网介绍](https://help.aliyun.com/product/43570.html)
 
@@ -13,6 +19,11 @@
 * [Cesium官网](https://cesiumjs.org/)
 * [Cesium github](https://github.com/AnalyticalGraphicsInc/cesium)
 
+### 地理信息数据格式
+* [GeoJSON](https://github.com/mapbox/geojson.io)
+* [TopoJSON](https://github.com/topojson/topojson)
+* [GeoJSON和TopoJSON简介](https://blog.csdn.net/zhongshijun521/article/details/52668843)
+ 
 ## Angular
 * [Angular官网](https://angular.io/)
 * [Angular中文](https://angular.cn/)
