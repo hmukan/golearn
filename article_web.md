@@ -2,8 +2,8 @@
 # 前端web资源
  
 ## 数据可视化
-### D3
-* [D3](https://github.com/d3/d3)
+### D3.js
+* [D3.js](https://github.com/d3/d3)
 
 ### ECharts
 * [ECharts](http://echarts.baidu.com/)
