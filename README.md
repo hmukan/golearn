@@ -1,2 +1,2 @@
-# golearn
-golang learning resource
+# learn
+learning resource
