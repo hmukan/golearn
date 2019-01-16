@@ -31,3 +31,13 @@
 ## html解析
  
 * [goquery](https://github.com/PuerkitoBio/goquery)
+
+## RabbitMQ golang文章
+* [RabbitMQ下的生产消费者模式与订阅发布模式](https://blog.csdn.net/zwgdft/article/details/53561277y)
+* [Rabbitmq详解（基于go语言）](https://blog.csdn.net/vrg000/article/details/81165030#qos)
+* [使用go作为RabbitMQ消费者的正确姿势](https://studygolang.com/articles/10617)
+* [RabbitMQ与AMQP协议详解](http://www.cnblogs.com/frankyou/p/5283539.html)
+* [RabbitMQ基本概念介绍](https://blog.csdn.net/weixin_40792878/article/details/82560158)
+* [RabbitMQ客户端golang实战](https://studygolang.com/articles/12871)
+* [Golang版RabbitMQ教程,翻译官方的](http://raylei.cn/index.php/archives/48/)
+
