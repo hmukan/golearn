@@ -32,6 +32,9 @@
  
 * [goquery](https://github.com/PuerkitoBio/goquery)
 
+## context
+* [Go并发模式:context](https://blog.csdn.net/xingwangc2014/article/details/78956907)
+
 ## RabbitMQ golang文章
 * [RabbitMQ下的生产消费者模式与订阅发布模式](https://blog.csdn.net/zwgdft/article/details/53561277y)
 * [Rabbitmq详解（基于go语言）](https://blog.csdn.net/vrg000/article/details/81165030#qos)
