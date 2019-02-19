@@ -1,5 +1,4 @@
-# learn
-learning resource
+# 学习资源汇总
  
  * [java资源](https://github.com/hmukan/learn/blob/master/article_java.md)
  * [golang资源](https://github.com/hmukan/learn/blob/master/article_go.md)
