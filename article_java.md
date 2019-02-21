@@ -19,3 +19,4 @@
 * [Spring Security做JWT认证和授权](https://www.jianshu.com/p/d5ce890c67f7)
 * [Springboot+Spring-Security+JWT](https://blog.csdn.net/ech13an/article/details/80779973)
 * [Spring Boot中使用使用Spring Security和JWT](https://www.cnblogs.com/hackyo/p/8004928.html)
+* [Spring Boot + Spring Security + JWT + MySQL](https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-2/)
