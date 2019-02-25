@@ -20,3 +20,10 @@
 * [Springboot+Spring-Security+JWT](https://blog.csdn.net/ech13an/article/details/80779973)
 * [Spring Boot中使用使用Spring Security和JWT](https://www.cnblogs.com/hackyo/p/8004928.html)
 * [Spring Boot + Spring Security + JWT + MySQL](https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-2/)
+
+## json
+* [Redis使用FastJson序列化](https://blog.csdn.net/moshowgame/article/details/83246363)
+
+## reids
+* [SpringBoot整合Redis及Redis工具类撰写](https://www.cnblogs.com/zeng1994/p/03303c805731afc9aa9c60dbbd32a323.html)
+* [springBoot2.0+redis+fastJson](https://www.cnblogs.com/wjwen/p/9301119.html)
