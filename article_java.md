@@ -29,3 +29,4 @@
 * [springBoot2.0+redis+fastJson](https://www.cnblogs.com/wjwen/p/9301119.html)
 * [SpringBoot2.x Redis-Lettuce](https://www.cnblogs.com/baidawei/p/9156410.html)
 * [springboot2.x 集成redis lettuce](https://www.cnblogs.com/taiyonghai/p/9454764.html)
+* [SpringBoot2.0系列07-SpringBoot之redis使用（Lettuce版本）](https://www.jianshu.com/p/feef1421ab0b)
