@@ -23,6 +23,7 @@
 
 ## log
 * [SpringBoot Logback日志配置](https://www.baidu.com/link?url=dcimUGwh3uNYasECVW0MITRG8Y8Qtswmke60csMX00gTneCIwujOsjcKLvWxaK4fqUiFhA7mudEcIvc23fmpqa&wd=&eqid=c34e2eae00057f5a000000065c80d7d0)
+* [Spring Boot 中使用 LogBack 配置](https://cloud.tencent.com/developer/article/1041359)
 
 ## json
 * [Redis使用FastJson序列化](https://blog.csdn.net/moshowgame/article/details/83246363)
